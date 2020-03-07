@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : #"md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -199,8 +199,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -208,8 +206,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
 
 
 # Sass/SCSS
