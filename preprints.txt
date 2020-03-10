@@ -1,0 +1,2 @@
+*   **Clustering with Statistical Error Control**. (with Matthias Schmid). [Paper](https://www.jura.uni-bonn.de/?file:35670 "Herunterladen"). The technical details are in the [Supplementary Material](https://www.jura.uni-bonn.de/?file:34482 "Herunterladen"). The R code can be found [here](https://www.jura.uni-bonn.de/?file:43439 "Herunterladen").
+*   **Calender Effect and Continuous Chain Ladder**. (with Enno Mammen, Maria Dolores Martinez-Miranda and Jens Nielsen).
