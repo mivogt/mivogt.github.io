@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*  **Nonparametric Regression for Locally Stationary Time Series.** _Annals of Statistics (40)__2601-2633_. <link file:25671="" -="" download="" herunterladen="">Paper. More technical details and an application to financial data can be found in the <link file:25672="" -="" download="" herunterladen="">Technical Report. Here are some additional <link file:25673="" -="" download="" herunterladen="">Simulations.
+*  **Nonparametric Regression for Locally Stationary Time Series.** _Annals of Statistics (40)__2601-2633_. [Paper](http://mivogt.github.io/files/nonparametric_regression_locally_stationary_time_series/paper.pdf). More technical details and an application to financial data can be found in the [Technical Report](http://mivogt.github.io/files/nonparametric_regression_locally_stationary_time_series/report.pdf). Here are some additional [Simulations](http://mivogt.github.io/files/nonparametric_regression_locally_stationary_time_series/simulation.pdf).
 
 *   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend.** (with Oliver Linton). _Biometrika__ (101) 121-140_. <link file:25675="" -="" download="" herunterladen="">Paper. The R code for the empirical part of the paper can be found <link file:25674="" -="" download="" herunterladen="">here.
 
