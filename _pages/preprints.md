@@ -5,5 +5,6 @@ permalink: /preprints/
 author_profile: true
 ---
 
-*   **Clustering with Statistical Error Control**. (with Matthias Schmid). [Paper](https://www.jura.uni-bonn.de/?file:35670 "Herunterladen"). The technical details are in the [Supplementary Material](https://www.jura.uni-bonn.de/?file:34482 "Herunterladen"). The R code can be found [here](https://www.jura.uni-bonn.de/?file:43439 "Herunterladen").
+*   **Clustering with Statistical Error Control**. (with Matthias Schmid). <a href="../files/preprints/clustering_statistical_error/paper.pdf">(Link to paper.)</a>. The technical details are in the <a href="../files/preprints/clustering_statistical_error/supplement.pdf">supplementary material</a>. The R code can be found <a href="../files/preprints/clustering_statistical_error/R_codes.zip">here</a>.
+
 *   **Calender Effect and Continuous Chain Ladder**. (with Enno Mammen, Maria Dolores Martinez-Miranda and Jens Nielsen).
