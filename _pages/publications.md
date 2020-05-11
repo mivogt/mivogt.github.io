@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*  **Nonparametric Regression for Locally Stationary Time Series.** _Annals of Statistic_. <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/paper.pdf">(Link to paper.)</a> More technical details and an application to financial data can be found in the <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/report.pdf">technical report</a>. Here are some additional <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/simulation.pdf">simulations</a>.
+*  **Nonparametric Regression for Locally Stationary Time Series.** _Annals of Statistic_. <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/paper.pdf">(Paper.)</a> More technical details and an application to financial data can be found in the <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/report.pdf">technical report</a>. Here are some additional <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/simulation.pdf">simulations</a>.
 
 *   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend.** (with Oliver Linton). _Biometrika_. <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/paper.pdf">(Link to paper)</a>. The R code for the empirical part of the paper can be found <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/codes.zip">here</a>.
 
