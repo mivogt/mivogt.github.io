@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-*  **Nonparametric Regression for Locally Stationary Time Series** <br/>
-   _Annals of Statistics_, Volume 40, Number 5 (2012), 2601-2633
-   <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/paper.pdf">Paper</a>, <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/report.pdf">technical report</a> and some additional <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/simulation.pdf">simulations</a>.
-
-*   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend.** (with Oliver Linton). _Biometrika_. <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/paper.pdf">(Link to paper)</a>. The R code for the empirical part of the paper can be found <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/codes.zip">here</a>.
-
 *   **Detecting Gradual Changes in Locally Stationary Processes.** (with Holger Dette). _Annals of Statistics_. <a href="../files/papers/detecting_gradual_changes_locally_stationary_processes/paper.pdf">(Link to paper)</a>. More technical details and simulations can be found in the <a href="../files/papers/detecting_gradual_changes_locally_stationary_processes/supplement.pdf">supplementary material</a>.
 
 *   **A Semiparametric Model for Heterogeneous Panel Data with Fixed Effects.** (with Oliver Linton and Lena Koerber). _Journal of Econometrics_. <a href="../files/papers/semiparametric_model_heterogeneous_panel_data_fixed_effects/paper.pdf">(Link to paper)</a>. Additional details are in the <a href="../files/papers/semiparametric_model_heterogeneous_panel_data_fixed_effects/supplement.pdf">supplementary material</a>.
@@ -31,3 +25,16 @@ author_profile: true
 
 *   **Multiscale Clustering of Nonparametric Regression Curves.** (with Oliver Linton). Forthcoming in _Journal of Econometrics_. <a href="../files/papers/multiscale_clustering_nonparametric_regression_curves/paper.pdf">(Link to paper.)</a> Additional details can be found in the <a href="../files/papers/multiscale_clustering_nonparametric_regression_curves/supplement.pdf">supplementary material</a>. The R code for the paper can be found <a href="../files/papers/multiscale_clustering_nonparametric_regression_curves/codes.zip">here</a>.
 
+
+
+*   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend** <br/> 
+    Joint work with with Oliver Linton <br/>
+    _Biometrika_, Volume 101, Number 1 (2014), 121-140 <br/>
+    <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/paper.pdf">Paper</a> and 
+    <a href="../files/papers/nonparametric_estimation_periodic_sequence_smooth_trend/codes.zip">R code</a>.
+
+*   **Nonparametric Regression for Locally Stationary Time Series** <br/>
+    _Annals of Statistics_, Volume 40, Number 5 (2012), 2601-2633 <br/>
+    <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/paper.pdf">Paper</a>, 
+    <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/report.pdf">Technical Report</a> and some additional 
+    <a href="../files/papers/nonparametric_regression_locally_stationary_time_series/simulation.pdf">simulations</a>.
