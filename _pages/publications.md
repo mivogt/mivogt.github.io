@@ -84,7 +84,7 @@ author_profile: true
 
 
 *   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend** <br/>
-    Joint work with with Oliver Linton <br/>
+    Joint work with Oliver Linton <br/>
     _Biometrika_, Volume 101, Number 1 (2014), 121-140 <br/>
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/paper.pdf">Paper</a> and 
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/codes.zip">R code</a>

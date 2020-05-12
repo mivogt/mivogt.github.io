@@ -81,8 +81,8 @@ author:
   name             : "Michael Vogt"
   avatar           : "profile.jpg"
   bio              : 
-  location         : 
-  employer         : "University of Bonn <br/> Department of Economics and <br/> Hausdorff Center for Mathematics <br/> Adenauerallee 24-42 <br/> 53113 Bonn <br/> Germany"
+  location         : "<br/> University of Bonn <br/> Department of Economics and <br/> Hausdorff Center for Mathematics <br/> Adenauerallee 24-42 <br/> 53113 Bonn <br/> Germany"
+  employer         : 
   pubmed           :
   googlescholar    :
   email            : "michael.vogt@uni-bonn.de"
