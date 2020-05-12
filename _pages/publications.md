@@ -63,7 +63,8 @@ author_profile: true
 
 
 *   **The Effect of Fragmentation in Trading on Market Quality in the UK Equity Market** <br/>
-    Joint work with Oliver Linton and Lena Koerber (This is the empirical companion paper to _A Semiparametric Model for Heterogeneous Panel Data with Fixed Effects_) <br/>
+    Joint work with Oliver Linton and Lena Koerber <br/>
+    (This is the empirical companion paper to _A Semiparametric Model for Heterogeneous Panel Data with Fixed Effects_) <br/>
     _Journal of Applied Econometrics_, Volume 31, Number 1 (2016), 192-213 <br/>
     <a href="../files/papers/semiparametric_model_heterogeneous_panel_data_empirical/paper.pdf">Paper</a> and
     <a href="../files/papers/semiparametric_model_heterogeneous_panel_data_empirical/supplement.pdf">Supplementary Material</a>
