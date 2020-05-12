@@ -76,12 +76,12 @@ author_profile: true
 
 
 *   **Testing for Structural Change in Time-Varying Nonparametric Regression Models** <br/>
-_Econometric Theory_, Volume 31, Number 4 (2015), 811-859 <br/>
-<a href="../files/papers/testing_structural_change_time_varying_nonparametric_regression/paper.pdf">Paper</a>
+    _Econometric Theory_, Volume 31, Number 4 (2015), 811-859 <br/>
+    <a href="../files/papers/testing_structural_change_time_varying_nonparametric_regression/paper.pdf">Paper</a>
 
 
-*   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend** <br/> 
-    Joint work with with Oliver Linton <br/> 
+*   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend** <br/>
+    Joint work with with Oliver Linton <br/>
     _Biometrika_, Volume 101, Number 1 (2014), 121-140 <br/>
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/paper.pdf">Paper</a> and 
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/codes.zip">R code</a>
