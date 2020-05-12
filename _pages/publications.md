@@ -75,12 +75,13 @@ author_profile: true
     <a href="../files/papers/specification_structural_break_tests_additive_models/paper.pdf">Paper</a> 
 
 
-*   **Testing for Structural Change in Time-Varying Nonparametric Regression Models** <br/> _Econometric Theory_, Volume 31, Number 4 (2015), 811-859 <br/> 
-    <a href="../files/papers/testing_structural_change_time_varying_nonparametric_regression/paper.pdf">Paper</a>
+*   **Testing for Structural Change in Time-Varying Nonparametric Regression Models** 
+_Econometric Theory_, Volume 31, Number 4 (2015), 811-859 
+<a href="../files/papers/testing_structural_change_time_varying_nonparametric_regression/paper.pdf">Paper</a>
 
 
 *   **Nonparametric Estimation of a Periodic Sequence in the Presence of a Smooth Trend** <br/> 
-    Joint work with with Oliver Linton <br/>
+    Joint work with with Oliver Linton <br/> 
     _Biometrika_, Volume 101, Number 1 (2014), 121-140 <br/>
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/paper.pdf">Paper</a> and 
     <a href="../files/papers/nonparametric_estimation_periodic_sequence/codes.zip">R code</a>
