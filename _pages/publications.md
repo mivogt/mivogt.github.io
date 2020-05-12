@@ -14,7 +14,7 @@ author_profile: true
     <a href="../files/papers/clustering_statistical_error_control/R_package.zip">R package</a>
 
 
-*   **Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors** <br/>  
+*   **Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors** <br/>
     Joint work with Marina Khismatullina <br/>  
     _Journal of the Royal Statistical Society: Series B_, Volume 82, Number 1 (2020), 5-37 <br/>  
     <a href="../files/papers/multiscale_inference_nonparametric_time_trends/paper.pdf">Paper</a> and
@@ -75,8 +75,7 @@ author_profile: true
     <a href="../files/papers/specification_structural_break_tests_additive_models/paper.pdf">Paper</a> 
 
 
-*   **Testing for Structural Change in Time-Varying Nonparametric Regression Models** <br/>  
-    _Econometric Theory_, Volume 31, Number 4 (2015), 811-859 <br/> 
+*   **Testing for Structural Change in Time-Varying Nonparametric Regression Models** <br/> _Econometric Theory_, Volume 31, Number 4 (2015), 811-859 <br/> 
     <a href="../files/papers/testing_structural_change_time_varying_nonparametric_regression/paper.pdf">Paper</a>
 
 
