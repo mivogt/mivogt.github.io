@@ -7,6 +7,9 @@ author_profile: true
 
 
 
+<br/>
+
+
 *   **Estimating the Lasso's Effective Noise** <br/>
     Joint work with Johannes Lederer <br/>
     <a href="../files/papers/estimating_lasso_effective_noise/paper.pdf">Paper</a> 

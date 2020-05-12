@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+
+<br/>
+
+
 *   **Clustering with Statistical Error Control** <br/>
     Joint work with Matthias Schmid <br/>
     Forthcoming in _Scandinavian Journal of Statistics_ <br/>
