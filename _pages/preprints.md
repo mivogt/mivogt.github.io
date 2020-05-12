@@ -5,7 +5,6 @@ permalink: /preprints/
 author_profile: true
 ---
 
-{% include base_path %}
 
 
 *   **Estimating the Lasso's Effective Noise** <br/>

@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
 
 
 *   **Clustering with Statistical Error Control** <br/>
