@@ -12,6 +12,11 @@ author_profile: true
     <a href="../files/preprints/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
 
 
+*   **Nonparametric Comparison of Epidemic Time Trends: The Case of COVID-19** <br/>
+    Joint work with Marina Khismatullina <br/>
+    <a href="../files/preprints/nonparametric_comparison_epidemic_time_trends/ms.pdf">Paper</a> 
+
+
 *   **Locally Stationary Multiplicative Volatility Modelling** <br/>
     Joint work with Christopher Walsh <br/>
     <a href="../files/preprints/locally_stationary_volatility_modelling/paper.pdf">Paper</a> and
