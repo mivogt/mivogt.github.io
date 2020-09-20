@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistics professor at the University of Bonn.
+I am a statistics professor at the University of Ulm.
 I work in the field of mathematical statistics and theoretical econometrics. 
 My main research interests are 
 
