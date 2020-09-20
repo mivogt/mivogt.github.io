@@ -11,4 +11,8 @@ author_profile: true
 Summer term 2020
 ----------------
 
-* Time Series Analysis (Bachelor) - University of Bonn
+* Fortgeschrittene Methoden der Mathematischen Biometrie B
+
+* Seminar Hochdimensionale Statistik
+
+* Mathematik fuer Studierende der Biologie
