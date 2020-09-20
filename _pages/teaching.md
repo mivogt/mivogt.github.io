@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-Summer term 2020
-----------------
+Winter term 2020/21
+-------------------
 
 * Fortgeschrittene Methoden der Mathematischen Biometrie B
 
