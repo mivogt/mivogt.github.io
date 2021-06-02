@@ -11,16 +11,16 @@ author_profile: true
 Summer term 2021
 ----------------
 
-* Master Lecture on Empirical Process Theory
+* Master lecture on empirical process theory
 
-* Master Lecture on Asymptotic Statistics
+* Master lecture on asymptotic statistics
 
 
 Winter term 2020/21
 -------------------
 
-* Master Lecture on High-Dimensional Statistics
+* Master lecture on high-dimensional statistics
 
-* Bachelor/Master Seminar on High-Dimensional Statistics
+* Bachelor/Master seminar on high-dimensional statistics
 
-* Bachelor Lecture "Mathematics for Biologists"
+* Bachelor lecture "Mathematics for Biologists"
