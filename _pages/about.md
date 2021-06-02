@@ -22,7 +22,7 @@ My main research interests are
 The statistical methods developed in my work can for example be applied to problems in economics, finance, biomedicine and climatology.
 
 
-# Bio
+# Short Bio
 
 * **2020--present**: Full Professor of Statistics at University of Ulm
 * **2015--2020**: Associate Professor at University of Bonn
