@@ -9,6 +9,7 @@ author_profile: true
 
 *   **Nonparametric Comparison of Epidemic Time Trends: The Case of COVID-19** <br/>
     Joint work with Marina Khismatullina <br/>
+    Forthcoming in _Journal of Econometrics_ <br/>
     <a href="../files/preprints/nonparametric_comparison_epidemic_time_trends/ms.pdf">Paper</a> 
 
 
