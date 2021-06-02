@@ -20,3 +20,13 @@ My main research interests are
   esp. locally stationary time series.
  
 The statistical methods developed in my work can for example be applied to problems in economics, finance, biomedicine and climatology.
+
+
+Bio
+---
+
+* **2020--present**: Full Professor of Statistics at Ulm University
+* **2015--2020**: Associate Professor at University of Bonn
+* **2013--2015**: Assistant Professor at University of Konstanz
+* **2011--2013**: Postdoc at University of Cambridge (advisor: Oliver Linton)
+* **2007--2011**: PhD studies at University of Mannheim (supervisor: Enno Mammen)
