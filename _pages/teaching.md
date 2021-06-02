@@ -8,11 +8,19 @@ author_profile: true
 {% include base_path %}
 
 
+Summer term 2021
+----------------
+
+* Master Lecture on Empirical Process Theory
+
+* Master Lecture on Asymptotic Statistics
+
+
 Winter term 2020/21
 -------------------
 
-* Fortgeschrittene Methoden der Mathematischen Biometrie B
+* Master Lecture on High-Dimensional Statistics
 
-* Seminar Hochdimensionale Statistik
+* Bachelor/Master Seminar on High-Dimensional Statistics
 
-* Mathematik fuer Studierende der Biologie
+* Bachelor Lecture "Mathematics for Biologists"
