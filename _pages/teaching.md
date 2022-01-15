@@ -26,7 +26,7 @@ Summer term 2021
 * Master lecture "Asymptotic Statistics"
 
 
-<!
+<!--
 
 Winter term 2020/21
 -------------------
@@ -37,4 +37,4 @@ Winter term 2020/21
 
 * Bachelor lecture "Mathematics for Biologists"
 
->
+-->
