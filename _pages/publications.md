@@ -9,7 +9,7 @@ author_profile: true
 
 *   **Estimating the Lasso's Effective Noise** <br/>
     Joint work with Johannes Lederer <br/>
-    <a href="../files/preprints/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
+    <a href="../files/papers/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
 
 
 *   **Nonparametric Comparison of Epidemic Time Trends: The Case of COVID-19** <br/>
