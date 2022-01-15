@@ -7,11 +7,6 @@ author_profile: true
 
 
 
-*   **Estimating the Lasso's Effective Noise** <br/>
-    Joint work with Johannes Lederer <br/>
-    <a href="../files/preprints/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
-
-
 *   **Locally Stationary Multiplicative Volatility Modelling** <br/>
     Joint work with Christopher Walsh <br/>
     <a href="../files/preprints/locally_stationary_volatility_modelling/paper.pdf">Paper</a> and
