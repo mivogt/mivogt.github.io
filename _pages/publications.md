@@ -9,6 +9,7 @@ author_profile: true
 
 *   **Estimating the Lasso's Effective Noise** <br/>
     Joint work with Johannes Lederer <br/>
+    _Journal of Machine Learning Research_, Volume 22 (2021), 1-32 <br/>
     <a href="../files/papers/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
 
 
@@ -20,10 +21,17 @@ author_profile: true
 
 *   **Clustering with Statistical Error Control** <br/>
     Joint work with Matthias Schmid <br/>
-    Forthcoming in _Scandinavian Journal of Statistics_ <br/>
+    _Scandinavian Journal of Statistics_, Volume 48, Number 3 (2021), 729-760 <br/>
     <a href="../files/papers/clustering_statistical_error_control/paper.pdf">Paper</a>,
     <a href="../files/papers/clustering_statistical_error_control/supplement.pdf">Supplementary Material</a> and
     <a href="../files/papers/clustering_statistical_error_control/R_package.zip">R package</a>
+
+
+*   **Calender Effect and In-Sample Forecasting** <br/>
+    Joint work with Enno Mammen, Maria Dolores Martinez-Miranda and Jens Perch Nielsen <br/>
+    _Insurance: Mathematics and Economics_, Volume 96 (2021), 31-52 <br/>
+    <a href="../files/papers/calender_effect_in-sample_forecasting/paper.pdf">Paper</a> and
+    <a href="../files/papers/calender_effect_in-sample_forecasting/supplement.pdf">Supplementary Material</a>
 
 
 *   **Multiscale Inference and Long-Run Variance Estimation in Nonparametric Regression with Time Series Errors** <br/>

@@ -13,6 +13,4 @@ author_profile: true
     <a href="../files/preprints/locally_stationary_volatility_modelling/supplement.pdf">Supplementary Material</a>  
 
 
-*   **Calender Effect and Continuous Chain Ladder** <br/>
-    Joint work with Enno Mammen, Maria Dolores Martinez-Miranda and Jens Nielsen
 
