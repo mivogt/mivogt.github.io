@@ -8,7 +8,7 @@ author_profile: true
 
 *   **CCE Estimation of High-Dimensional Panel Data Models with Interactive Fixed Effects** <br/>
     Joint work with Oliver Linton and Christopher Walsh <br/>
-    <a href="../files/preprints/high_dimensional_cce/paper.pdf">Paper</a>   
+    <a href="../files/preprints/high_dimensional_cce/paper.pdf">Paper</a> and <a href="https://github.com/ChriWalsh/ccehd">R package</a>  
 
 
 *   **Multiscale Comparison of Nonparametric Trend Curves** <br/>
