@@ -18,6 +18,7 @@ author_profile: true
 
 *   **Locally Stationary Multiplicative Volatility Modelling** <br/>
     Joint work with Christopher Walsh <br/>
+    Forthcoming in _Journal of Business & Economic Statistics_ <br/>
     <a href="../files/preprints/locally_stationary_volatility_modelling/paper.pdf">Paper</a> and
     <a href="../files/preprints/locally_stationary_volatility_modelling/supplement.pdf">Supplementary Material</a>  
 
