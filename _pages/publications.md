@@ -6,17 +6,16 @@ author_profile: true
 ---
 
 
+*   **Nonparametric Comparison of Epidemic Time Trends: The Case of COVID-19** <br/>
+    Joint work with Marina Khismatullina <br/>
+    _Journal of Econometrics_, Volume 232 (2023), 87-108 <br/>
+    <a href="../files/papers/comparison_epidemic_time_trends/paper.pdf">Paper</a> and [Code](https://github.com/marina-khi/multiscale)
+
 
 *   **Estimating the Lasso's Effective Noise** <br/>
     Joint work with Johannes Lederer <br/>
     _Journal of Machine Learning Research_, Volume 22 (2021), 1-32 <br/>
     <a href="../files/papers/estimating_lasso_effective_noise/paper.pdf">Paper</a> 
-
-
-*   **Nonparametric Comparison of Epidemic Time Trends: The Case of COVID-19** <br/>
-    Joint work with Marina Khismatullina <br/>
-    Forthcoming in _Journal of Econometrics_ <br/>
-    <a href="../files/papers/comparison_epidemic_time_trends/paper.pdf">Paper</a> and [Code](https://github.com/marina-khi/multiscale)
 
 
 *   **Clustering with Statistical Error Control** <br/>
