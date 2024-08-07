@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 
+*   **Piecewise Constant Hazard Estimation with the Fused Lasso** <br/>
+    Joint work with Jan Beyersmann and Manuel Rosenbaum <br/>
+    <a href="../files/preprints/piecewise_constant_hazard_estimation_with_fused_lasso/paper.pdf">Paper</a> and 
+    <a href="../files/preprints/piecewise_constant_hazard_estimation_with_fused_lasso/codes.zip">R code</a>
+
+
 *   **CCE Estimation of High-Dimensional Panel Data Models with Interactive Fixed Effects** <br/>
     Joint work with Oliver Linton and Christopher Walsh <br/>
     <a href="../files/preprints/high_dimensional_CCE/paper.pdf">Paper</a> and <a href="https://github.com/ChriWalsh/ccehd">R package</a>  
